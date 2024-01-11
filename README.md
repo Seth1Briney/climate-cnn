@@ -7,3 +7,5 @@ The globe is split into 16 regions in latitute, and 32 regions in longitute (fro
 Targets (days of the year) are given circular encodings, so that 0 and 364 are very close.
 
 The best model I trained with this was able to predict the day of the day of the year within 2 days.
+
+![Alt text](best-hyperparams.png)
